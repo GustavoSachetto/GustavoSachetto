@@ -1,4 +1,4 @@
-## Olá me chamo Gustavo ✋🏾
+## Olá me chamo Gustavo ✋🏼
 Sou um cara fissurado em técnologia! gosto sempre de acompanhar novidades no mundo do hardware e praticar tudo que aprendo sobre programação. Confira todos os meus projetos que eu desenvolvi utilizando todas as tecnologias abaixo! 
 
 [![Gustavo Sachetto](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSachetto)](https://github.com/GustavoSachetto/github-readme-stats)
