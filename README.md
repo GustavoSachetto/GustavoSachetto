@@ -1,5 +1,5 @@
 # Olá eu sou o Gustavo ✋🏾
-![Gustavo Sachetto](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSachetto&hide_progress=true)
+[![Gustavo Sachetto](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSachetto)](https://github.com/GustavoSachetto/github-readme-stats)
 
 ## Tecnologias que eu já utilizei
 <div style="display: inline_block">
