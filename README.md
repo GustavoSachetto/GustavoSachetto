@@ -1,5 +1,5 @@
-### Hi there 👋
-![GustavoSachetto GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoSachetto&show_icons=true&theme=dracula&count_private=true)
+# Olá eu sou o Gustavo ✋🏾
+![Gustavo Sachetto](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSachetto&hide_progress=true)
 
 ## Tecnologias que eu já utilizei
 <div style="display: inline_block">
