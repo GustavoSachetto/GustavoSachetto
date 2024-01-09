@@ -14,6 +14,6 @@ Sou um cara fissurado em técnologia! gosto sempre de acompanhar novidades no mu
 ## Tecnologias utilizadas
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,java,sass,jquery,bootstrap,mysql,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,java,sass,jquery,bootstrap,mysql,vscode,git" />
   </a>
 </div>
