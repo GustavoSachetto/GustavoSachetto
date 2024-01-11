@@ -1,5 +1,5 @@
 ## Olá me chamo Gustavo ✋🏼
-Sou um cara fissurado em técnologia! gosto sempre de acompanhar novidades no mundo do hardware e praticar tudo que aprendo sobre programação. Confira todos os meus projetos que eu desenvolvi utilizando todas as tecnologias abaixo! 
+Desde pequeno sempre fui muito fissurado em tecnologia! sempre gostei de acompanhar novidades no mundo do hardware e software, busco sempre práticar tudo que aprendo sobre desenvolvimento de sites e softwares. Confira todos os projetos que eu desenvolvi utilizando as tecnologias abaixo! 
 
 ## GitHub status
 <div>
