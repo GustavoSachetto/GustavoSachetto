@@ -17,3 +17,5 @@ Desde pequeno sempre fui muito fissurado em tecnologia! sempre gostei de acompan
     <img src="https://skillicons.dev/icons?i=php,html,css,js,jquery,sass,bootstrap,mysql,cs,java,vscode,git" />
   </a>
 </div>
+
+## Principais projetos
