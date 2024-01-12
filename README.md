@@ -1,6 +1,8 @@
 ## Olá me chamo Gustavo ✋🏼
 Desde pequeno sempre fui muito fissurado em tecnologia! sempre gostei de acompanhar novidades no mundo do hardware e software, busco sempre praticar tudo que aprendo sobre desenvolvimento de sites e softwares. Confira todos os projetos que eu desenvolvi utilizando as tecnologias abaixo! 
 
+* Atualmente estudando a fundo: POO, Classes, Métodos, Atributos e Namespaces. na linguagem de programação php.
+
 ## GitHub status
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -17,5 +19,3 @@ Desde pequeno sempre fui muito fissurado em tecnologia! sempre gostei de acompan
     <img src="https://skillicons.dev/icons?i=php,html,css,js,jquery,sass,bootstrap,mysql,cs,java,vscode,git" />
   </a>
 </div>
-
-## Principais projetos
