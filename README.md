@@ -1,7 +1,7 @@
 ## Olá me chamo Gustavo ✋🏼
 Desde pequeno sempre fui muito fissurado em tecnologia! Sempre gostei de acompanhar novidades no mundo do hardware e software, busco sempre praticar tudo que aprendo sobre desenvolvimento de sites e softwares. Confira todos os projetos que desenvolvi utilizando as tecnologias abaixo!
 
-* Atualmente estudando: POO, Classes, Métodos, Atributos e Namespaces. na linguagem de programação php.
+* Atualmente estudando: POO, Classes, Métodos, Atributos e Namespaces. Na linguagem de programação php.
 
 ## GitHub status
 <div>
