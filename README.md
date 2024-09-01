@@ -1,7 +1,7 @@
 ## Olá me chamo Gustavo ✋🏼
-Desde pequeno, sempre fui fissurado em tecnologia! Sempre gostei de acompanhar novidades no mundo do hardware e software, busco sempre praticar tudo que aprendo sobre desenvolvimento de sites e aplicativos. Confira todos os projetos que desenvolvi utilizando as tecnologias abaixo!
+Desde pequeno, sempre fui fissurado em tecnologia! Sempre gostei de acompanhar novidades no mundo do hardware e software, estou cursando técnico de informática para internet, onde busco praticar tudo que aprendo sobre desenvolvimento de sites e aplicativos. Confira todos os projetos que desenvolvi utilizando as tecnologias abaixo!
 
-* Atualmente estudando: Framework Laravel (PHP), Biblioteca React (JavaScript) e Banco de dados SQL.
+* Atualmente estudando: Framework Laravel (PHP), Design patterns, Arquitetura de software e Banco de dados SQL e NoSQL.
 
 ## GitHub status
 <div>
