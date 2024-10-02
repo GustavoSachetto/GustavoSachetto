@@ -16,6 +16,6 @@ Desde pequeno, sempre fui fissurado em tecnologia! Sempre gostei de acompanhar n
 ## Tecnologias utilizadas
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,react,php,ts,js,bootstrap,jquery,mysql,redis,styledcomponents,sass,java,vscode,postman,figma,github,git" />
+    <img src="https://skillicons.dev/icons?i=laravel,react,php,ts,js,bootstrap,jquery,mysql,redis,styledcomponents,sass,figma,postman,git" />
   </a>
 </div>
