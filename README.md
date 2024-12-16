@@ -1,7 +1,7 @@
 ## Olá me chamo Gustavo ✋🏼
-Desde pequeno, sempre fui fissurado em tecnologia! Sempre gostei de acompanhar novidades no mundo do hardware e software, estou cursando técnico de informática para internet, onde busco praticar tudo que aprendo sobre desenvolvimento de sites e aplicativos. Confira todos os projetos que desenvolvi utilizando as tecnologias abaixo!
+Sou desenvolvedor Full-Stack, na qual, desde pequeno, sempre fui fissurado em tecnologia. Sempre gostei de acompanhar novidades no mundo do hardware e conforme fui crescendo comecei a estudar programação, onde busco praticar tudo que aprendo sobre desenvolvimento de sites e aplicativos. Confira todos os projetos que desenvolvi utilizando as tecnologias abaixo!
 
-* Atualmente estudando: Framework Laravel (PHP), Design patterns, Arquitetura de software e Banco de dados SQL e NoSQL.
+* Atualmente estudando: Framework Laravel (PHP), Design patterns, Arquitetura de software e Banco de dados SQL.
 
 ## GitHub status
 <div>
