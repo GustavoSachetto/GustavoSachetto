@@ -1,7 +1,7 @@
 ## Olá me chamo Gustavo ✋🏼
 Sou desenvolvedor Full-Stack, na qual, desde pequeno, sempre fui fissurado em tecnologia. Sempre gostei de acompanhar novidades no mundo do hardware e conforme fui crescendo comecei a estudar programação, onde busco praticar tudo que aprendo sobre desenvolvimento de sites e aplicativos. Confira todos os projetos que desenvolvi utilizando as tecnologias abaixo!
 
-* Atualmente estudando: Framework Laravel (PHP), Design patterns, Arquitetura de software e Banco de dados SQL.
+* Atualmente estudando: Langchain e Langgraph, Python, Agentes de IA, Gemini e GCP.
 
 ## GitHub status
 <div>
@@ -16,6 +16,6 @@ Sou desenvolvedor Full-Stack, na qual, desde pequeno, sempre fui fissurado em te
 ## Tecnologias utilizadas
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,react,php,ts,js,bootstrap,jquery,mysql,redis,styledcomponents,sass,figma,postman,git" />
+    <img src="https://skillicons.dev/icons?i=spring,java,laravel,react,flutter,php,ts,js,bootstrap,postgres,mysql,redis,docker,sass,git" />
   </a>
 </div>
