@@ -3,6 +3,7 @@ Sou desenvolvedor Full-Stack, na qual, desde pequeno, sempre fui fissurado em te
 
 * Atualmente estudando: Langchain e Langgraph, Concrete Syntax Tree, Python, Agentes de IA, Gemini e GCP.
 
+<!--
 ## GitHub status
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -12,6 +13,7 @@ Sou desenvolvedor Full-Stack, na qual, desde pequeno, sempre fui fissurado em te
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoSachetto&layout=compact&langs_count=8&card_width=320"/>
   </a>
 </div>
+-->
 
 ## Tecnologias utilizadas
 <div>
